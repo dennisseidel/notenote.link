@@ -2,6 +2,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7b37d412-1240-44dd-8539-a7001465b57a/deploy-status)](https://app.netlify.com/sites/notenotelink/deploys)
 
+## Update !
+
+Hi everyone ! I recently updated the template so that you can now link headers : [[note#header\\|title]], which is done natively in Obsidian. Besides, there are now header links that appear on hover. As my notes get longer and longer, this functionnality became very necessary for meaningful linkings. If you see a bug, please open an issue about it !
 
 ## What is this?
 
@@ -9,11 +12,11 @@ A digital garden using a custom version of `simply-jekyll`, optimised for integr
 
 **Demo is here: [notenote.link](https://notenote.link)**
 
+If you want to see a more refined example, you can check my notes (in french) at [arboretum.link](https://www.arboretum.link/). Build time is approx. 15 seconds, FYI.
+
 Issues are welcome, including feedback ! Don't hesitate to ask if you can't find a solution. 💫
 
 ![screenshot](/assets/img/screenshot.png)
-
-You can check my personal notebook (in French) to see how it scales: [arboretum.link](https://arboretum.link)
 
 ## What is different?
 
@@ -25,9 +28,13 @@ You can check my personal notebook (in French) to see how it scales: [arboretum.
 
 ## How do I use this?
 
+You can click on this link and let the deploy-to-netlify-for-free-script do the rest !
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Maxence-L/notenote.link)
 
 Follow the [How to setup this site](https://notenote.link/notes/how-to-setup-this-site) guide, written by [raghuveerdotnet](https://github.com/raghuveerdotnet) and then adapted for this fork.
+
+If you want to use it with Github Pages, it is possible, [please read this](https://github.com/Maxence-L/notenote.link/issues/5#issuecomment-762508069).
 
 ## How can I participate?
 
